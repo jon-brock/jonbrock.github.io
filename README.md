@@ -1,2 +1,2 @@
 # jonbrock.github.io
-Online Resume for Jon Brock, MPH
+Online Profile for Jon Brock, MPH
